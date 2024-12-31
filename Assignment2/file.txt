@@ -1,0 +1,5 @@
+{"firstname": "Prabhash", "lastname": "Golla", "username": "Prabhsh_Golla", "password": "123@abcDf", "department": "CSE", "wrong": 0, "hall": "Nehru", "roll": "22CS30027", "type": "UG Student"}
+{"firstname": "a", "lastname": "a", "username": "1", "password": "1234@abcD", "department": "CSE", "wrong": 0, "area": "noice", "type": " Teacher "}
+{"firstname": "a", "lastname": "a", "username": "132", "password": "1234@abcD", "department": "CSE", "wrong": 0, "area": "noice", "type": " Teacher "}
+{"firstname": "Prbhasdh", "lastname": "fty", "username": "3432", "password": "5243y6!J", "department": "Cs", "wrong": 0, "hall": "NH", "roll": "22CS30027", "type": "UG Student"}
+{"firstname": "ilkr", "lastname": "dficklg", "username": "jkcv", "password": "5243y6!J", "department": "CSEds", "wrong": 0, "area": "fdjks", "type": " Teacher "}
